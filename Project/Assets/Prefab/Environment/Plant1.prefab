@@ -21,7 +21,7 @@ GameObject:
   - component: {fileID: 4842485899018636}
   - component: {fileID: 212863987475636852}
   - component: {fileID: 61772560753840820}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: PlantTop1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36,7 +36,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4586438250528032}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Plant1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -53,7 +53,7 @@ GameObject:
   - component: {fileID: 4476551904109194}
   - component: {fileID: 212914348197255324}
   - component: {fileID: 61115957156480272}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: PlantBot1
   m_TagString: Untagged
   m_Icon: {fileID: 0}

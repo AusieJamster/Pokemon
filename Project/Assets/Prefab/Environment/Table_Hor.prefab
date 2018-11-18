@@ -21,7 +21,7 @@ GameObject:
   - component: {fileID: 4490428208345674}
   - component: {fileID: 212993290737426320}
   - component: {fileID: 61541661412192558}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: tableTopL
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36,7 +36,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4066478117283514}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Table_Hor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -53,7 +53,7 @@ GameObject:
   - component: {fileID: 4193427023709468}
   - component: {fileID: 212146287407462634}
   - component: {fileID: 61267957929476632}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: tableBotR
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -70,7 +70,7 @@ GameObject:
   - component: {fileID: 4472199266726446}
   - component: {fileID: 212429423787385074}
   - component: {fileID: 61927117972344500}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: tableBotL
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -87,7 +87,7 @@ GameObject:
   - component: {fileID: 4776428927889872}
   - component: {fileID: 212312554845853112}
   - component: {fileID: 61705715367813754}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: tableTopR
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -21,7 +21,7 @@ GameObject:
   - component: {fileID: 4768714368440864}
   - component: {fileID: 212547777297451924}
   - component: {fileID: 61506284578192394}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: PC_Top1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36,7 +36,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4737897944296972}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: PC1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -53,7 +53,7 @@ GameObject:
   - component: {fileID: 4868383157082704}
   - component: {fileID: 212860220948158714}
   - component: {fileID: 61408485572046328}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: PC_Bot1
   m_TagString: Untagged
   m_Icon: {fileID: 0}

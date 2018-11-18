@@ -21,7 +21,7 @@ GameObject:
   - component: {fileID: 4037209693588258}
   - component: {fileID: 212420862891321580}
   - component: {fileID: 61740939811816510}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: BedT1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36,7 +36,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4093721258003962}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Bed1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -53,7 +53,7 @@ GameObject:
   - component: {fileID: 4645353582943170}
   - component: {fileID: 212412447297549174}
   - component: {fileID: 61275113197442984}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: BedB1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
