@@ -10,9 +10,9 @@ public abstract class Character : MonoBehaviour {
 
     public bool acceptInput = true;
 
-    private BoxCollider2D boxCollider;
+    protected BoxCollider2D boxCollider;
     private Rigidbody2D rb;
-    private Animator anim;
+    protected Animator anim;
     private float inverseMoveTime;
 
     protected virtual void Start()
@@ -29,9 +29,6 @@ public abstract class Character : MonoBehaviour {
         Vector2 start = transform.position;
         Vector2 end = start + new Vector2(xDir, yDir);
 
-        anim.SetInteger("horizontal", xDir);
-        anim.SetInteger("vertical", yDir);
-
         boxCollider.enabled = false;
 
         RaycastHit2D hit = Physics2D.Linecast(start, end, blockingLayer);
@@ -47,7 +44,7 @@ public abstract class Character : MonoBehaviour {
         return false;
     }
 
-    protected IEnumerator SmoothMovement(Vector3 end)
+    protected virtual IEnumerator SmoothMovement(Vector3 end)
     {
         acceptInput = false;
 

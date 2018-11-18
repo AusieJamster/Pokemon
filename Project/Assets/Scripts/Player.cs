@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Player : Character {
-    
+
+    public LayerMask triggerLayer;
+
     private void Update()
     {
         if (acceptInput) Move();
@@ -26,18 +28,32 @@ public class Player : Character {
         
 #endif
 
+        anim.SetFloat("horizontal", horizontal);
+        anim.SetFloat("vertical", vertical);
+
         if (horizontal != 0 || vertical != 0)
-            base.Move(horizontal, vertical);
+            Move(horizontal, vertical);
 
         //SoundManager.instance.RandomiseSfx();
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    protected override IEnumerator SmoothMovement(Vector3 end)
     {
-        if(collision.tag == "Trigger")
-        {
-            collision.GetComponent<TriggerObject>().TriggerActive(this);
+        yield return base.SmoothMovement(end);
+        /*
 
+        boxCollider.enabled = false;
+
+        RaycastHit2D hit = Physics2D.CircleCast(transform.position, .5f, Vector2.right, .5f, triggerLayer.value);
+
+        boxCollider.enabled = true;
+
+        Debug.Log(hit.transform);
+
+        if (hit.transform != null)
+        {
+            hit.transform.GetComponent<TriggerObject>().Trigger(this);
         }
+        */
     }
 }

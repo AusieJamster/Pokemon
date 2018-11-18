@@ -6,29 +6,25 @@ public class TeleTrigger : TriggerObject {
 
     public Transform teleportTo;
 
-    private float delay = 0.1f;
+    private float delay = 1f;
 
-    protected override void Trigger(Player player)
+    public override void Trigger(Player player)
     {
         StartCoroutine(Teleport(player));
     }
 
     protected IEnumerator Teleport(Player player)
     {
-        player.acceptInput = false;
-
-        GameManager.instance.FadeScreen(true);
+        StartCoroutine(GameManager.instance.FadeScreen(true));
 
         while (GameManager.instance.fading)
             yield return new WaitForSeconds(delay);
         
         player.transform.position = teleportTo.position;
 
-        GameManager.instance.FadeScreen(true);
+        StartCoroutine(GameManager.instance.FadeScreen(false));
 
         while (GameManager.instance.fading)
             yield return new WaitForSeconds(delay);
-
-        player.acceptInput = true;
     }
 }
