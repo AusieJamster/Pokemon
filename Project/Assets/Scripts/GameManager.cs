@@ -8,7 +8,9 @@ public class GameManager : MonoBehaviour {
     public static GameManager instance;
 
     private float faderSpeed = 5;
-    private Image fader;
+    public Image fader;
+
+    private TextBoxTyper typer;
 
     public bool fading;
 
@@ -23,9 +25,7 @@ public class GameManager : MonoBehaviour {
 
     private void Start()
     {
-
-        fader = transform.GetChild(0).GetChild(0).GetComponent<Image>();
-
+        typer = GetComponent<TextBoxTyper>();
     }
 
     public IEnumerator FadeScreen(bool toBlack)
@@ -41,7 +41,6 @@ public class GameManager : MonoBehaviour {
 
         while (fader.color.a >= 0 && fader.color.a <= 1)
         {
-            Debug.Log(fader.color.a);
             tempColor.a += faderSpeed * Time.deltaTime;
             fader.color = tempColor;
             yield return null;
@@ -51,5 +50,10 @@ public class GameManager : MonoBehaviour {
         fader.color = tempColor;
 
         fading = false;
+    }
+
+    public void Textbox (string[] text, Player player)
+    {
+        typer.RunTextbox(text, player);
     }
 }

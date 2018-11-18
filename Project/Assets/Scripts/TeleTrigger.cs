@@ -15,6 +15,7 @@ public class TeleTrigger : TriggerObject {
 
     protected IEnumerator Teleport(Player player)
     {
+        player.acceptInput = false;
         StartCoroutine(GameManager.instance.FadeScreen(true));
 
         while (GameManager.instance.fading)
@@ -24,7 +25,6 @@ public class TeleTrigger : TriggerObject {
 
         StartCoroutine(GameManager.instance.FadeScreen(false));
 
-        while (GameManager.instance.fading)
-            yield return new WaitForSeconds(delay);
+        player.acceptInput = true;
     }
 }
