@@ -10,35 +10,46 @@ public class Player : Character {
 
     private void Update()
     {
-        if (acceptInput)
-            Move();
+        Move();            
 
-        if (Input.GetKeyDown(KeyCode.E))
+        if (Input.GetKeyDown(KeyCode.E) && acceptInput)
             Interact();
     }
 
     protected void Move()
     {
-        facing = Vector2.zero;
+        int horizontal = 0;
+        int vertical = 0;
 
 #if UNITY_STANDALONE || UNITY_WEBPLAYER
 
-        facing.x = (int)(Input.GetAxisRaw("Horizontal"));
-        facing.y = (int)(Input.GetAxisRaw("Vertical"));
+        horizontal = (int)(Input.GetAxisRaw("Horizontal"));
+        vertical = (int)(Input.GetAxisRaw("Vertical"));
 
-        if (facing.x != 0)
-            facing.y = 0;
+        if (horizontal != 0)
+            vertical = 0;
 
 #elif UNITY_IOS || UNITY_ANDROID || UNITY_WP8 || UNITY_IPHONE
         
 #endif
 
-        anim.SetFloat("horizontal", facing.x);
-        anim.SetFloat("vertical", facing.y);
-
-        if (facing.x != 0 || facing.y != 0)
+        if (!acceptInput)
         {
-            Move((int)facing.x, (int)facing.y);
+            anim.SetFloat("horizontal", 0);
+            anim.SetFloat("vertical", 0);
+            return;
+        }
+        else
+        {
+            anim.SetFloat("horizontal", horizontal);
+            anim.SetFloat("vertical", vertical);
+        }
+
+        if (horizontal != 0 || vertical != 0)
+        {
+            facing.x = horizontal;
+            facing.y = vertical;
+            Move(horizontal, vertical);
         }
 
         //SoundManager.instance.RandomiseSfx();
@@ -48,11 +59,15 @@ public class Player : Character {
     {
         boxCollider.enabled = false;
         RaycastHit2D hit = Physics2D.Raycast(transform.position, facing, 1, blockingLayer.value);
+        Debug.DrawRay(transform.position, facing, Color.red, 1);
         boxCollider.enabled = true;
+
+        if (hit.transform == null)
+            return;
 
         if(hit.transform.tag == "Interactable")
         {
-            hit.transform.GetComponent<Interactable>();
+            hit.transform.GetComponent<Interactable>().Interact(this);
         }
     }
 

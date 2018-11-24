@@ -2,12 +2,12 @@ fileFormatVersion: 2
 guid: dff89480e24783c45841351a5c9dc97b
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Top_Left
-    21300002: Top_Right
+    21300000: Textbox_LT
+    21300002: Textbox_RT
     21300004: Trans_Select
     21300006: male
-    21300008: Bot_Left
-    21300010: Bot_Right
+    21300008: Textbox_LB
+    21300010: Textbox_RB
     21300012: Select
     21300014: female
     21300016: TextBox_Hor
@@ -121,7 +121,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Top_Left
+      name: Textbox_LT
       rect:
         serializedVersion: 2
         x: 0
@@ -141,7 +141,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Top_Right
+      name: Textbox_RT
       rect:
         serializedVersion: 2
         x: 8
@@ -201,7 +201,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bot_Left
+      name: Textbox_LB
       rect:
         serializedVersion: 2
         x: 0
@@ -221,7 +221,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bot_Right
+      name: Textbox_RB
       rect:
         serializedVersion: 2
         x: 8

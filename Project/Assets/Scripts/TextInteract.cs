@@ -6,7 +6,7 @@ public class TextInteract : Interactable {
 
     public string[] text;
 
-    public override void Interactive(Player player)
+    public override void Interact(Player player)
     {
         if (text == null)
             return;

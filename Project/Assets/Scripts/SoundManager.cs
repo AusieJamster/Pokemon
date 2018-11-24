@@ -46,6 +46,6 @@ public class SoundManager : MonoBehaviour {
 
         sfxSource.pitch = randomPitch;
 
-        sfxSource.Play();
+        sfxSource.PlayOneShot(clips[randomIndex]);
     }
 }

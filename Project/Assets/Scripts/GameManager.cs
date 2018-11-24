@@ -8,7 +8,7 @@ public class GameManager : MonoBehaviour {
     public static GameManager instance;
 
     private float faderSpeed = 5;
-    public Image fader;
+    public   Image fader;
 
     private TextBoxTyper typer;
 

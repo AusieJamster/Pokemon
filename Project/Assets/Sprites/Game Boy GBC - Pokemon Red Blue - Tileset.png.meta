@@ -8,13 +8,13 @@ TextureImporter:
     21300006: grass3
     21300008: Sign1
     21300010: Sign2
-    21300012: Game Boy GBC - Pokemon Red Blue - Tileset_6
-    21300014: Game Boy GBC - Pokemon Red Blue - Tileset_7
-    21300016: Game Boy GBC - Pokemon Red Blue - Tileset_8
-    21300018: Game Boy GBC - Pokemon Red Blue - Tileset_10
-    21300020: Game Boy GBC - Pokemon Red Blue - Tileset_11
-    21300022: Game Boy GBC - Pokemon Red Blue - Tileset_12
-    21300024: Game Boy GBC - Pokemon Red Blue - Tileset_14
+    21300012: Bondary
+    21300014: Fence
+    21300016: Water1_RT
+    21300018: Water1_LT
+    21300020: FlowerBR1
+    21300022: Water2_RT
+    21300024: Water2_LT
     21300026: Game Boy GBC - Pokemon Red Blue - Tileset_15
     21300028: lgrass3
     21300030: Stump
@@ -33,13 +33,13 @@ TextureImporter:
     21300056: Game Boy GBC - Pokemon Red Blue - Tileset_30
     21300058: Tree1
     21300060: TreeCut
-    21300062: Game Boy GBC - Pokemon Red Blue - Tileset_33
-    21300064: Game Boy GBC - Pokemon Red Blue - Tileset_34
-    21300066: Game Boy GBC - Pokemon Red Blue - Tileset_35
-    21300068: Game Boy GBC - Pokemon Red Blue - Tileset_36
-    21300070: Game Boy GBC - Pokemon Red Blue - Tileset_37
-    21300072: Game Boy GBC - Pokemon Red Blue - Tileset_38
-    21300074: Game Boy GBC - Pokemon Red Blue - Tileset_39
+    21300062: Water1_R
+    21300064: Water1
+    21300066: Water1_L
+    21300068: FlowerTL1
+    21300070: Water2_R
+    21300072: Water2
+    21300074: Water2_L
     21300076: Game Boy GBC - Pokemon Red Blue - Tileset_40
     21300078: lgrass4
     21300080: lgrass6
@@ -57,14 +57,14 @@ TextureImporter:
     21300104: Game Boy GBC - Pokemon Red Blue - Tileset_54
     21300106: Tree2
     21300108: Game Boy GBC - Pokemon Red Blue - Tileset_57
-    21300110: Game Boy GBC - Pokemon Red Blue - Tileset_58
-    21300112: Game Boy GBC - Pokemon Red Blue - Tileset_59
-    21300114: Game Boy GBC - Pokemon Red Blue - Tileset_60
-    21300116: Game Boy GBC - Pokemon Red Blue - Tileset_61
-    21300118: Game Boy GBC - Pokemon Red Blue - Tileset_62
-    21300120: Game Boy GBC - Pokemon Red Blue - Tileset_63
-    21300122: Game Boy GBC - Pokemon Red Blue - Tileset_64
-    21300124: Game Boy GBC - Pokemon Red Blue - Tileset_65
+    21300110: Water1_M_RT
+    21300112: Water1_T
+    21300114: Water1_M_LT
+    21300116: Water1_T2
+    21300118: Water2_M_LT
+    21300120: Water2_T
+    21300122: Water2_M_RT
+    21300124: Water2_T2
     21300126: lgrass5
     21300128: lgrass7
     21300130: Game Boy GBC - Pokemon Red Blue - Tileset_68
@@ -137,13 +137,13 @@ TextureImporter:
     21300264: Game Boy GBC - Pokemon Red Blue - Tileset_141
     21300266: Game Boy GBC - Pokemon Red Blue - Tileset_142
     21300268: Game Boy GBC - Pokemon Red Blue - Tileset_143
-    21300270: Game Boy GBC - Pokemon Red Blue - Tileset_156
-    21300272: Game Boy GBC - Pokemon Red Blue - Tileset_157
-    21300274: Game Boy GBC - Pokemon Red Blue - Tileset_158
-    21300276: Game Boy GBC - Pokemon Red Blue - Tileset_159
-    21300278: Game Boy GBC - Pokemon Red Blue - Tileset_160
-    21300280: Game Boy GBC - Pokemon Red Blue - Tileset_161
-    21300282: Game Boy GBC - Pokemon Red Blue - Tileset_162
+    21300270: Roof_Single_LT
+    21300272: Roof_Single_C
+    21300274: Roof_Single_RT
+    21300276: House_Door
+    21300278: Roof3_RT
+    21300280: Roof3_CT
+    21300282: Roof3_LT
     21300284: Game Boy GBC - Pokemon Red Blue - Tileset_164
     21300286: Game Boy GBC - Pokemon Red Blue - Tileset_165
     21300288: Game Boy GBC - Pokemon Red Blue - Tileset_166
@@ -154,14 +154,14 @@ TextureImporter:
     21300298: Game Boy GBC - Pokemon Red Blue - Tileset_171
     21300300: Game Boy GBC - Pokemon Red Blue - Tileset_172
     21300302: Game Boy GBC - Pokemon Red Blue - Tileset_173
-    21300304: Game Boy GBC - Pokemon Red Blue - Tileset_174
-    21300306: Game Boy GBC - Pokemon Red Blue - Tileset_179
-    21300308: Game Boy GBC - Pokemon Red Blue - Tileset_180
-    21300310: Game Boy GBC - Pokemon Red Blue - Tileset_181
-    21300312: Game Boy GBC - Pokemon Red Blue - Tileset_182
-    21300314: Game Boy GBC - Pokemon Red Blue - Tileset_183
-    21300316: Game Boy GBC - Pokemon Red Blue - Tileset_184
-    21300318: Game Boy GBC - Pokemon Red Blue - Tileset_185
+    21300304: SignPoke2
+    21300306: Roof_Single_LB
+    21300308: House_Single_C
+    21300310: Roof_Single_RB
+    21300312: House_C
+    21300314: Roof3_LC
+    21300316: Roof3_CC
+    21300318: Roof3_RC
     21300320: Game Boy GBC - Pokemon Red Blue - Tileset_186
     21300322: Game Boy GBC - Pokemon Red Blue - Tileset_187
     21300324: Game Boy GBC - Pokemon Red Blue - Tileset_188
@@ -173,13 +173,13 @@ TextureImporter:
     21300336: Game Boy GBC - Pokemon Red Blue - Tileset_195
     21300338: LadderCaveD
     21300340: LadderCaveU
-    21300342: Game Boy GBC - Pokemon Red Blue - Tileset_203
-    21300344: Game Boy GBC - Pokemon Red Blue - Tileset_204
-    21300346: Game Boy GBC - Pokemon Red Blue - Tileset_205
-    21300348: Game Boy GBC - Pokemon Red Blue - Tileset_206
-    21300350: Game Boy GBC - Pokemon Red Blue - Tileset_207
-    21300352: Game Boy GBC - Pokemon Red Blue - Tileset_208
-    21300354: Game Boy GBC - Pokemon Red Blue - Tileset_209
+    21300342: House_Single_WD_C
+    21300344: House_Single_WR_C
+    21300346: House_Single_WL_C
+    21300348: House_WL_C
+    21300350: Roof3_LB
+    21300352: Roof3_CB
+    21300354: Roof3_RB
     21300356: Game Boy GBC - Pokemon Red Blue - Tileset_211
     21300358: Game Boy GBC - Pokemon Red Blue - Tileset_212
     21300360: Game Boy GBC - Pokemon Red Blue - Tileset_213
@@ -192,14 +192,14 @@ TextureImporter:
     21300374: Game Boy GBC - Pokemon Red Blue - Tileset_220
     21300376: Game Boy GBC - Pokemon Red Blue - Tileset_221
     21300378: Game Boy GBC - Pokemon Red Blue - Tileset_222
-    21300380: Game Boy GBC - Pokemon Red Blue - Tileset_227
-    21300382: Game Boy GBC - Pokemon Red Blue - Tileset_228
-    21300384: Game Boy GBC - Pokemon Red Blue - Tileset_229
-    21300386: Game Boy GBC - Pokemon Red Blue - Tileset_230
-    21300388: Game Boy GBC - Pokemon Red Blue - Tileset_232
-    21300390: Game Boy GBC - Pokemon Red Blue - Tileset_233
-    21300392: Game Boy GBC - Pokemon Red Blue - Tileset_234
-    21300394: Game Boy GBC - Pokemon Red Blue - Tileset_235
+    21300380: Roof_LT
+    21300382: Roof_CT
+    21300384: Roof_RT
+    21300386: House_WR_C
+    21300388: House_Br_2_C
+    21300390: House_Br_2_WL_C
+    21300392: House_Br_2_WR_C
+    21300394: House_Br_2_WD_C
     21300396: Game Boy GBC - Pokemon Red Blue - Tileset_236
     21300398: Game Boy GBC - Pokemon Red Blue - Tileset_237
     21300400: Game Boy GBC - Pokemon Red Blue - Tileset_238
@@ -212,14 +212,14 @@ TextureImporter:
     21300414: Game Boy GBC - Pokemon Red Blue - Tileset_245
     21300416: Game Boy GBC - Pokemon Red Blue - Tileset_246
     21300418: Game Boy GBC - Pokemon Red Blue - Tileset_247
-    21300420: Game Boy GBC - Pokemon Red Blue - Tileset_252
-    21300422: Game Boy GBC - Pokemon Red Blue - Tileset_253
-    21300424: Game Boy GBC - Pokemon Red Blue - Tileset_254
-    21300426: Game Boy GBC - Pokemon Red Blue - Tileset_255
-    21300428: Game Boy GBC - Pokemon Red Blue - Tileset_257
-    21300430: Game Boy GBC - Pokemon Red Blue - Tileset_258
-    21300432: Game Boy GBC - Pokemon Red Blue - Tileset_259
-    21300434: Game Boy GBC - Pokemon Red Blue - Tileset_260
+    21300420: Roof_LC
+    21300422: Roof_CB
+    21300424: Roof_RC
+    21300426: House_2_C
+    21300428: House_Br_C
+    21300430: House_Br_WL_C
+    21300432: House_Br_WR_C
+    21300434: House_Br_WD_C
     21300436: Game Boy GBC - Pokemon Red Blue - Tileset_261
     21300438: Game Boy GBC - Pokemon Red Blue - Tileset_262
     21300440: Game Boy GBC - Pokemon Red Blue - Tileset_263
@@ -231,15 +231,15 @@ TextureImporter:
     21300452: Game Boy GBC - Pokemon Red Blue - Tileset_270
     21300454: Game Boy GBC - Pokemon Red Blue - Tileset_271
     21300456: Game Boy GBC - Pokemon Red Blue - Tileset_272
-    21300458: Game Boy GBC - Pokemon Red Blue - Tileset_277
-    21300460: Game Boy GBC - Pokemon Red Blue - Tileset_278
-    21300462: Game Boy GBC - Pokemon Red Blue - Tileset_279
-    21300464: Game Boy GBC - Pokemon Red Blue - Tileset_280
-    21300466: Game Boy GBC - Pokemon Red Blue - Tileset_281
-    21300468: Game Boy GBC - Pokemon Red Blue - Tileset_282
-    21300470: Game Boy GBC - Pokemon Red Blue - Tileset_283
-    21300472: Game Boy GBC - Pokemon Red Blue - Tileset_284
-    21300474: Game Boy GBC - Pokemon Red Blue - Tileset_285
+    21300458: Roof_BL
+    21300460: House_2_WD_C
+    21300462: Roof_RB
+    21300464: House_LB
+    21300466: House_2_Br_L
+    21300468: House_Br_2_W_L
+    21300470: House_2_Br_R
+    21300472: House_Br_2_W_R
+    21300474: SignPoke
     21300476: Game Boy GBC - Pokemon Red Blue - Tileset_286
     21300478: Game Boy GBC - Pokemon Red Blue - Tileset_287
     21300480: Game Boy GBC - Pokemon Red Blue - Tileset_288
@@ -250,16 +250,16 @@ TextureImporter:
     21300490: Game Boy GBC - Pokemon Red Blue - Tileset_294
     21300492: Game Boy GBC - Pokemon Red Blue - Tileset_295
     21300494: Game Boy GBC - Pokemon Red Blue - Tileset_296
-    21300496: Game Boy GBC - Pokemon Red Blue - Tileset_297
-    21300498: Game Boy GBC - Pokemon Red Blue - Tileset_302
-    21300500: Game Boy GBC - Pokemon Red Blue - Tileset_303
-    21300502: Game Boy GBC - Pokemon Red Blue - Tileset_304
-    21300504: Game Boy GBC - Pokemon Red Blue - Tileset_305
-    21300506: Game Boy GBC - Pokemon Red Blue - Tileset_306
-    21300508: Game Boy GBC - Pokemon Red Blue - Tileset_307
-    21300510: Game Boy GBC - Pokemon Red Blue - Tileset_308
-    21300512: Game Boy GBC - Pokemon Red Blue - Tileset_309
-    21300514: Game Boy GBC - Pokemon Red Blue - Tileset_310
+    21300496: SignCave
+    21300498: House_W_BL
+    21300500: House_WD_C
+    21300502: House_W_BR
+    21300504: House_RB
+    21300506: House_Br_L
+    21300508: House_Br_W_LB
+    21300510: House_Br_R
+    21300512: House_Br_2_W_RB
+    21300514: SignMart
     21300516: Game Boy GBC - Pokemon Red Blue - Tileset_311
     21300518: Game Boy GBC - Pokemon Red Blue - Tileset_312
     21300520: Game Boy GBC - Pokemon Red Blue - Tileset_313
@@ -267,24 +267,24 @@ TextureImporter:
     21300524: Game Boy GBC - Pokemon Red Blue - Tileset_315
     21300526: SignGym1
     21300528: SignGym2
-    21300530: Game Boy GBC - Pokemon Red Blue - Tileset_325
-    21300532: Game Boy GBC - Pokemon Red Blue - Tileset_326
-    21300534: Game Boy GBC - Pokemon Red Blue - Tileset_327
-    21300536: Game Boy GBC - Pokemon Red Blue - Tileset_328
-    21300538: Game Boy GBC - Pokemon Red Blue - Tileset_329
-    21300540: Game Boy GBC - Pokemon Red Blue - Tileset_330
+    21300530: Roof2_BL
+    21300532: House2_2_WL_C
+    21300534: House2_2_WR_C
+    21300536: House2_2_WD_C
+    21300538: Roof2_BR
+    21300540: House2_C
     21300542: Game Boy GBC - Pokemon Red Blue - Tileset_332
     21300544: Game Boy GBC - Pokemon Red Blue - Tileset_333
     21300546: Game Boy GBC - Pokemon Red Blue - Tileset_334
-    21300548: Game Boy GBC - Pokemon Red Blue - Tileset_343
-    21300550: Game Boy GBC - Pokemon Red Blue - Tileset_344
-    21300552: Game Boy GBC - Pokemon Red Blue - Tileset_345
+    21300548: Roof_CL
+    21300550: Roof_CC
+    21300552: Roof_CR
     21300554: Game Boy GBC - Pokemon Red Blue - Tileset_346
     21300556: Game Boy GBC - Pokemon Red Blue - Tileset_347
     21300558: Game Boy GBC - Pokemon Red Blue - Tileset_348
-    21300560: Game Boy GBC - Pokemon Red Blue - Tileset_357
-    21300562: Game Boy GBC - Pokemon Red Blue - Tileset_358
-    21300564: Game Boy GBC - Pokemon Red Blue - Tileset_359
+    21300560: Roof2_LB
+    21300562: Roof2_CB
+    21300564: Roof2_RB
     21300566: WallPaper_Hor
     21300568: PC_TopL1
     21300570: PC_TopR1
@@ -319,7 +319,7 @@ TextureImporter:
     21300628: Game Boy GBC - Pokemon Red Blue - Tileset_399
     21300630: Game Boy GBC - Pokemon Red Blue - Tileset_400
     21300632: Game Boy GBC - Pokemon Red Blue - Tileset_401
-    21300634: Floor1
+    21300634: RoomFloor1
     21300636: PC_BotL1
     21300638: PC_BotR1
     21300640: Game Boy GBC - Pokemon Red Blue - Tileset_405
@@ -520,7 +520,7 @@ TextureImporter:
     21301030: Game Boy GBC - Pokemon Red Blue - Tileset_604
     21301032: Game Boy GBC - Pokemon Red Blue - Tileset_605
     21301034: Game Boy GBC - Pokemon Red Blue - Tileset_606
-    21301036: Game Boy GBC - Pokemon Red Blue - Tileset_607
+    21301036: PlantT3
     21301038: Game Boy GBC - Pokemon Red Blue - Tileset_608
     21301040: Game Boy GBC - Pokemon Red Blue - Tileset_609
     21301042: Game Boy GBC - Pokemon Red Blue - Tileset_610
@@ -552,7 +552,7 @@ TextureImporter:
     21301094: Game Boy GBC - Pokemon Red Blue - Tileset_641
     21301096: Game Boy GBC - Pokemon Red Blue - Tileset_642
     21301098: Game Boy GBC - Pokemon Red Blue - Tileset_643
-    21301100: Game Boy GBC - Pokemon Red Blue - Tileset_644
+    21301100: PlantB3
     21301102: Game Boy GBC - Pokemon Red Blue - Tileset_645
     21301104: Game Boy GBC - Pokemon Red Blue - Tileset_646
     21301106: Game Boy GBC - Pokemon Red Blue - Tileset_647
@@ -727,8 +727,8 @@ TextureImporter:
     21301444: Game Boy GBC - Pokemon Red Blue - Tileset_830
     21301446: Game Boy GBC - Pokemon Red Blue - Tileset_831
     21301448: Game Boy GBC - Pokemon Red Blue - Tileset_832
-    21301450: Game Boy GBC - Pokemon Red Blue - Tileset_833
-    21301452: Game Boy GBC - Pokemon Red Blue - Tileset_834
+    21301450: PlantHorzT1
+    21301452: PlantHorzB1
     21301454: Game Boy GBC - Pokemon Red Blue - Tileset_835
     21301456: Game Boy GBC - Pokemon Red Blue - Tileset_836
     21301458: Game Boy GBC - Pokemon Red Blue - Tileset_837
@@ -1138,7 +1138,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_6
+      name: Bondary
       rect:
         serializedVersion: 2
         x: 96
@@ -1158,7 +1158,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_7
+      name: Fence
       rect:
         serializedVersion: 2
         x: 112
@@ -1178,7 +1178,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_8
+      name: Water1_RT
       rect:
         serializedVersion: 2
         x: 128
@@ -1198,7 +1198,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_10
+      name: Water1_LT
       rect:
         serializedVersion: 2
         x: 160
@@ -1218,7 +1218,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_11
+      name: FlowerBR1
       rect:
         serializedVersion: 2
         x: 176
@@ -1238,7 +1238,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_12
+      name: Water2_RT
       rect:
         serializedVersion: 2
         x: 192
@@ -1258,7 +1258,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_14
+      name: Water2_LT
       rect:
         serializedVersion: 2
         x: 224
@@ -1602,7 +1602,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 96
-        y: 627
+        y: 624
         width: 16
         height: 16
       alignment: 0
@@ -1638,7 +1638,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_33
+      name: Water1_R
       rect:
         serializedVersion: 2
         x: 128
@@ -1658,7 +1658,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_34
+      name: Water1
       rect:
         serializedVersion: 2
         x: 144
@@ -1678,7 +1678,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_35
+      name: Water1_L
       rect:
         serializedVersion: 2
         x: 160
@@ -1698,7 +1698,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_36
+      name: FlowerTL1
       rect:
         serializedVersion: 2
         x: 176
@@ -1718,7 +1718,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_37
+      name: Water2_R
       rect:
         serializedVersion: 2
         x: 192
@@ -1738,7 +1738,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_38
+      name: Water2
       rect:
         serializedVersion: 2
         x: 208
@@ -1758,7 +1758,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_39
+      name: Water2_L
       rect:
         serializedVersion: 2
         x: 224
@@ -2118,7 +2118,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_58
+      name: Water1_M_RT
       rect:
         serializedVersion: 2
         x: 128
@@ -2138,7 +2138,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_59
+      name: Water1_T
       rect:
         serializedVersion: 2
         x: 144
@@ -2158,7 +2158,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_60
+      name: Water1_M_LT
       rect:
         serializedVersion: 2
         x: 160
@@ -2178,7 +2178,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_61
+      name: Water1_T2
       rect:
         serializedVersion: 2
         x: 176
@@ -2198,7 +2198,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_62
+      name: Water2_M_LT
       rect:
         serializedVersion: 2
         x: 192
@@ -2218,7 +2218,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_63
+      name: Water2_T
       rect:
         serializedVersion: 2
         x: 208
@@ -2238,7 +2238,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_64
+      name: Water2_M_RT
       rect:
         serializedVersion: 2
         x: 224
@@ -2258,7 +2258,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_65
+      name: Water2_T2
       rect:
         serializedVersion: 2
         x: 240
@@ -3718,7 +3718,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_156
+      name: Roof_Single_LT
       rect:
         serializedVersion: 2
         x: 0
@@ -3738,7 +3738,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_157
+      name: Roof_Single_C
       rect:
         serializedVersion: 2
         x: 16
@@ -3758,7 +3758,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_158
+      name: Roof_Single_RT
       rect:
         serializedVersion: 2
         x: 32
@@ -3778,7 +3778,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_159
+      name: House_Door
       rect:
         serializedVersion: 2
         x: 48
@@ -3798,7 +3798,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_160
+      name: Roof3_RT
       rect:
         serializedVersion: 2
         x: 64
@@ -3818,7 +3818,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_161
+      name: Roof3_CT
       rect:
         serializedVersion: 2
         x: 80
@@ -3838,7 +3838,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_162
+      name: Roof3_LT
       rect:
         serializedVersion: 2
         x: 96
@@ -4058,7 +4058,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_174
+      name: SignPoke2
       rect:
         serializedVersion: 2
         x: 304
@@ -4078,7 +4078,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_179
+      name: Roof_Single_LB
       rect:
         serializedVersion: 2
         x: 0
@@ -4098,7 +4098,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_180
+      name: House_Single_C
       rect:
         serializedVersion: 2
         x: 16
@@ -4118,7 +4118,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_181
+      name: Roof_Single_RB
       rect:
         serializedVersion: 2
         x: 32
@@ -4138,7 +4138,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_182
+      name: House_C
       rect:
         serializedVersion: 2
         x: 48
@@ -4158,7 +4158,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_183
+      name: Roof3_LC
       rect:
         serializedVersion: 2
         x: 64
@@ -4178,7 +4178,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_184
+      name: Roof3_CC
       rect:
         serializedVersion: 2
         x: 80
@@ -4198,7 +4198,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_185
+      name: Roof3_RC
       rect:
         serializedVersion: 2
         x: 96
@@ -4438,7 +4438,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_203
+      name: House_Single_WD_C
       rect:
         serializedVersion: 2
         x: 0
@@ -4458,7 +4458,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_204
+      name: House_Single_WR_C
       rect:
         serializedVersion: 2
         x: 16
@@ -4478,7 +4478,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_205
+      name: House_Single_WL_C
       rect:
         serializedVersion: 2
         x: 32
@@ -4498,7 +4498,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_206
+      name: House_WL_C
       rect:
         serializedVersion: 2
         x: 48
@@ -4518,7 +4518,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_207
+      name: Roof3_LB
       rect:
         serializedVersion: 2
         x: 64
@@ -4538,7 +4538,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_208
+      name: Roof3_CB
       rect:
         serializedVersion: 2
         x: 80
@@ -4558,7 +4558,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_209
+      name: Roof3_RB
       rect:
         serializedVersion: 2
         x: 96
@@ -4818,7 +4818,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_227
+      name: Roof_LT
       rect:
         serializedVersion: 2
         x: 0
@@ -4838,7 +4838,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_228
+      name: Roof_CT
       rect:
         serializedVersion: 2
         x: 16
@@ -4858,7 +4858,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_229
+      name: Roof_RT
       rect:
         serializedVersion: 2
         x: 32
@@ -4878,7 +4878,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_230
+      name: House_WR_C
       rect:
         serializedVersion: 2
         x: 48
@@ -4898,7 +4898,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_232
+      name: House_Br_2_C
       rect:
         serializedVersion: 2
         x: 80
@@ -4918,7 +4918,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_233
+      name: House_Br_2_WL_C
       rect:
         serializedVersion: 2
         x: 96
@@ -4938,7 +4938,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_234
+      name: House_Br_2_WR_C
       rect:
         serializedVersion: 2
         x: 112
@@ -4958,7 +4958,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_235
+      name: House_Br_2_WD_C
       rect:
         serializedVersion: 2
         x: 128
@@ -5218,7 +5218,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_252
+      name: Roof_LC
       rect:
         serializedVersion: 2
         x: 0
@@ -5238,7 +5238,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_253
+      name: Roof_CB
       rect:
         serializedVersion: 2
         x: 16
@@ -5258,7 +5258,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_254
+      name: Roof_RC
       rect:
         serializedVersion: 2
         x: 32
@@ -5278,7 +5278,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_255
+      name: House_2_C
       rect:
         serializedVersion: 2
         x: 48
@@ -5298,7 +5298,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_257
+      name: House_Br_C
       rect:
         serializedVersion: 2
         x: 80
@@ -5318,7 +5318,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_258
+      name: House_Br_WL_C
       rect:
         serializedVersion: 2
         x: 96
@@ -5338,7 +5338,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_259
+      name: House_Br_WR_C
       rect:
         serializedVersion: 2
         x: 112
@@ -5358,7 +5358,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_260
+      name: House_Br_WD_C
       rect:
         serializedVersion: 2
         x: 128
@@ -5598,7 +5598,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_277
+      name: Roof_BL
       rect:
         serializedVersion: 2
         x: 0
@@ -5618,7 +5618,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_278
+      name: House_2_WD_C
       rect:
         serializedVersion: 2
         x: 16
@@ -5638,7 +5638,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_279
+      name: Roof_RB
       rect:
         serializedVersion: 2
         x: 32
@@ -5658,7 +5658,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_280
+      name: House_LB
       rect:
         serializedVersion: 2
         x: 48
@@ -5678,7 +5678,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_281
+      name: House_2_Br_L
       rect:
         serializedVersion: 2
         x: 64
@@ -5698,7 +5698,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_282
+      name: House_Br_2_W_L
       rect:
         serializedVersion: 2
         x: 80
@@ -5718,7 +5718,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_283
+      name: House_2_Br_R
       rect:
         serializedVersion: 2
         x: 96
@@ -5738,7 +5738,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_284
+      name: House_Br_2_W_R
       rect:
         serializedVersion: 2
         x: 112
@@ -5758,7 +5758,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_285
+      name: SignPoke
       rect:
         serializedVersion: 2
         x: 128
@@ -5978,7 +5978,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_297
+      name: SignCave
       rect:
         serializedVersion: 2
         x: 320
@@ -5998,7 +5998,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_302
+      name: House_W_BL
       rect:
         serializedVersion: 2
         x: 0
@@ -6018,7 +6018,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_303
+      name: House_WD_C
       rect:
         serializedVersion: 2
         x: 16
@@ -6038,7 +6038,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_304
+      name: House_W_BR
       rect:
         serializedVersion: 2
         x: 32
@@ -6058,7 +6058,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_305
+      name: House_RB
       rect:
         serializedVersion: 2
         x: 48
@@ -6078,7 +6078,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_306
+      name: House_Br_L
       rect:
         serializedVersion: 2
         x: 64
@@ -6098,7 +6098,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_307
+      name: House_Br_W_LB
       rect:
         serializedVersion: 2
         x: 80
@@ -6118,7 +6118,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_308
+      name: House_Br_R
       rect:
         serializedVersion: 2
         x: 96
@@ -6138,7 +6138,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_309
+      name: House_Br_2_W_RB
       rect:
         serializedVersion: 2
         x: 112
@@ -6158,7 +6158,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_310
+      name: SignMart
       rect:
         serializedVersion: 2
         x: 128
@@ -6318,7 +6318,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_325
+      name: Roof2_BL
       rect:
         serializedVersion: 2
         x: 32
@@ -6338,7 +6338,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_326
+      name: House2_2_WL_C
       rect:
         serializedVersion: 2
         x: 48
@@ -6358,7 +6358,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_327
+      name: House2_2_WR_C
       rect:
         serializedVersion: 2
         x: 64
@@ -6378,7 +6378,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_328
+      name: House2_2_WD_C
       rect:
         serializedVersion: 2
         x: 80
@@ -6398,7 +6398,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_329
+      name: Roof2_BR
       rect:
         serializedVersion: 2
         x: 96
@@ -6418,7 +6418,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_330
+      name: House2_C
       rect:
         serializedVersion: 2
         x: 112
@@ -6498,7 +6498,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_343
+      name: Roof_CL
       rect:
         serializedVersion: 2
         x: 0
@@ -6518,7 +6518,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_344
+      name: Roof_CC
       rect:
         serializedVersion: 2
         x: 16
@@ -6538,7 +6538,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_345
+      name: Roof_CR
       rect:
         serializedVersion: 2
         x: 32
@@ -6618,7 +6618,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_357
+      name: Roof2_LB
       rect:
         serializedVersion: 2
         x: 0
@@ -6638,7 +6638,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_358
+      name: Roof2_CB
       rect:
         serializedVersion: 2
         x: 16
@@ -6658,7 +6658,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_359
+      name: Roof2_RB
       rect:
         serializedVersion: 2
         x: 32
@@ -7358,7 +7358,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor1
+      name: RoomFloor1
       rect:
         serializedVersion: 2
         x: 0
@@ -11378,7 +11378,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_607
+      name: PlantT3
       rect:
         serializedVersion: 2
         x: 448
@@ -12018,7 +12018,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_644
+      name: PlantB3
       rect:
         serializedVersion: 2
         x: 448
@@ -15518,7 +15518,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_833
+      name: PlantHorzT1
       rect:
         serializedVersion: 2
         x: 208
@@ -15538,7 +15538,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Boy GBC - Pokemon Red Blue - Tileset_834
+      name: PlantHorzB1
       rect:
         serializedVersion: 2
         x: 224
